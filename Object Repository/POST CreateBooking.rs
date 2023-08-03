@@ -24,11 +24,19 @@
       <value>application/json</value>
       <webElementGuid>4ccd3aab-6d62-4489-822e-39b41405f6e6</webElementGuid>
    </httpHeaderProperties>
+   <httpHeaderProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Accept</name>
+      <type>Main</type>
+      <value>application/json</value>
+      <webElementGuid>ca0dfb9b-9492-4001-8e86-1b25e762afa8</webElementGuid>
+   </httpHeaderProperties>
    <katalonVersion>8.6.5</katalonVersion>
    <maxResponseSize>0</maxResponseSize>
    <migratedVersion>5.4.1</migratedVersion>
    <restRequestMethod>POST</restRequestMethod>
-   <restUrl>https://restful-booker.herokuapp.com/booking?firstname=Jim&amp;lastname=Brown&amp;totalprice=111&amp;depositpaid=true</restUrl>
+   <restUrl>https://restful-booker.herokuapp.com/booking</restUrl>
    <serviceType>RESTful</serviceType>
    <soapBody></soapBody>
    <soapHeader></soapHeader>
